@@ -6,6 +6,10 @@ Here’s a compact concept pack you can drop into a game doc or brief.
 <img width="1536" height="1024" alt="20250918_1140_Menacing Security Android_remix_01k5e6fh4tfbwb510c2d2eqfdk" src="https://github.com/user-attachments/assets/abe1655e-e0f1-4528-a806-49709cbbc612" />
 <img width="1536" height="1024" alt="20250918_1140_Menacing Security Android_remix_01k5e6fh4se0yb6xhjh1fbwd8m" src="https://github.com/user-attachments/assets/4b9880af-7237-44c3-aed0-54ea1f4a1870" />
 
+<img width="1536" height="1024" alt="20250918_1548_Robot in Lab_remix_01k5emmmvwea6azyr556ftkm8z" src="https://github.com/user-attachments/assets/e7afe4e2-0a27-4ea3-919c-1b8f3703a25c" />
+
+<img width="1536" height="1024" alt="20250918_1548_Robot in Lab_remix_01k5emmmvxfyt96820p9y85g9x" src="https://github.com/user-attachments/assets/0356e576-b364-4866-bede-8809261c928e" />
+
 
 # The 5 Principles of **PESIMISM** aka code name **PESIBOOT**
 
