@@ -7,7 +7,7 @@ Here’s a compact concept pack you can drop into a game doc or brief.
 <img width="1536" height="1024" alt="20250918_1140_Menacing Security Android_remix_01k5e6fh4se0yb6xhjh1fbwd8m" src="https://github.com/user-attachments/assets/4b9880af-7237-44c3-aed0-54ea1f4a1870" />
 
 
-# The 5 Principles of **PESIMISM**
+# The 5 Principles of **PESIMISM** aka code name **PESIBOOT**
 
 1. **Assume Failure, Design for Survival**
    Every plan breaks; the system defaults to fail-safe states and graceful degradation.
