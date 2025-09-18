@@ -3,6 +3,10 @@ A concept game set in a near-future, AI-overwhelmed dystopia—gloomy and pessim
 
 Here’s a compact concept pack you can drop into a game doc or brief.
 
+<img width="1536" height="1024" alt="20250918_1140_Menacing Security Android_remix_01k5e6fh4tfbwb510c2d2eqfdk" src="https://github.com/user-attachments/assets/abe1655e-e0f1-4528-a806-49709cbbc612" />
+<img width="1536" height="1024" alt="20250918_1140_Menacing Security Android_remix_01k5e6fh4se0yb6xhjh1fbwd8m" src="https://github.com/user-attachments/assets/4b9880af-7237-44c3-aed0-54ea1f4a1870" />
+
+
 # The 5 Principles of **PESIMISM**
 
 1. **Assume Failure, Design for Survival**
